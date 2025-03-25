@@ -6,9 +6,7 @@
 
 `EIXO 1`
 
-O projeto “Semeando Esperança” tem o objetivo de redistribuir os alimentos que normalmente são desperdiçados, conectando doadores e beneficiários.
-
-Dessa forma, visa-se reduzir o desperdício e a fome, promovendo a solidariedade e incentivando práticas mais sustentáveis e responsáveis.
+O projeto “Semeando Esperança” tem o objetivo de redistribuir os alimentos que normalmente são desperdiçados, conectando doadores e beneficiários. Dessa forma, visa-se reduzir o desperdício e a fome, promovendo a solidariedade e incentivando práticas mais sustentáveis e responsáveis.
 ## Integrantes
 
 * Tainan Marques Gadelha
@@ -16,7 +14,6 @@ Dessa forma, visa-se reduzir o desperdício e a fome, promovendo a solidariedade
 * Charles Carvalho de Oliveira
 * Ruan Mulato Borges Araújo
 * Carlos Eduardo Ribeiro da Silva
-* Wendel Henrique Duarte 
 
 ## Orientador
 

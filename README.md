@@ -1,5 +1,5 @@
-# TÍTULO DO PROJETO
-
+# Semeando Esperança:
+*Conectando Alimentos a quem precisa.
 `CURSO`
 
 `DISCIPLINA`

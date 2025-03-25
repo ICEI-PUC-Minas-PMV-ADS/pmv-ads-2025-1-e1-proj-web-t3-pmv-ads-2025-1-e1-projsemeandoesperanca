@@ -1,19 +1,22 @@
 # Semeando Esperança:
 
-`CURSO`
+`TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`PROJETO: DESENVOLVIMENTO DE APLICAÇÃO WEB FRONT-END`
 
-`SEMESTRE`
+`EIXO 1`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto “Semeando Esperança” tem o objetivo de redistribuir os alimentos que normalmente são desperdiçados, conectando doadores e beneficiários.
 
+Dessa forma, visa-se reduzir o desperdício e a fome, promovendo a solidariedade e incentivando práticas mais sustentáveis e responsáveis.
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Tainan Marques Gadelha
+* Marcos Antonio Pires de Souza 
+* Charles Carvalho de Oliveira
+* Ruan Mulato Borges Araújo
+* Carlos Eduardo Ribeiro da Silva
+* Wendel Henrique Duarte 
 
 ## Orientador
 

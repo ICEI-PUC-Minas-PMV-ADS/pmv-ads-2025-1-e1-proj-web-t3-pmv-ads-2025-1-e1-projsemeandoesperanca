@@ -1,16 +1,38 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
+Especificações do Projeto: Aplicativo de Doação de Alimentos
+Pré-requisitos: Documentação de Contexto
+Este projeto visa desenvolver um aplicativo para facilitar a doação de alimentos entre doadores, ONGs, abrigos e beneficiários, oferecendo uma plataforma simples e eficaz para quem deseja doar ou receber alimentos. O objetivo é solucionar problemas logísticos de distribuição e aumentar o impacto das doações de alimentos para populações carentes.
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+Técnicas e Ferramentas Utilizadas:
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+- Diagrama de Personas: Para identificar as necessidades e desejos dos usuários.
+
+- Histórias de Usuários: Para descrever as funcionalidades a partir da perspectiva dos usuários.
+
+- BPMN (Business Process Model and Notation): Para descrever os processos de doação.
+
+- Análise de Situação Atual: Para entender as lacunas existentes na distribuição de alimentos.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+1- Doador: Maria, 35 anos
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Maria é dona de uma pequena padaria e quer ajudar a comunidade local. Ela está interessada em um meio simples e rápido para fazer suas doações de pães e outros alimentos não perecíveis. Maria busca uma plataforma confiável para fazer suas doações de forma direta para ONGs ou abrigos de sua cidade.
+
+2- ONG: João, 42 anos
+
+João coordena uma ONG que oferece alimentação para pessoas em situação de rua. Ele precisa de um aplicativo que centralize as doações recebidas e facilite o gerenciamento das entregas aos beneficiários. A ONG busca otimizar a distribuição de alimentos.
+
+3- Beneficiário: Ana, 27 anos
+
+Ana é moradora de rua e depende das doações de alimentos para sua sobrevivência. Ela precisa de um sistema onde possa localizar rapidamente as ONGs ou abrigos que estão distribuindo alimentos em sua região, com horários e locais definidos.
+
+4- Abrigo: Pedro, 50 anos
+
+Pedro administra um abrigo para famílias em situação de vulnerabilidade social. O abrigo precisa de um aplicativo para gerenciar as doações e as necessidades alimentícias de seus moradores, garantindo que tudo seja distribuído de maneira justa e eficiente.
+
+
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
@@ -28,10 +50,68 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Doador (Maria)	     | Cadastrar minha padaria para doação de alimentos | Ajudar pessoas necessitadas em minha cidade |
+|ONG (João)	         | Receber notificações de doações perto de mim     | Organizar e planejar a retirada de alimentos |
+|Beneficiário (Ana)	 | Consultar em tempo real as ONGs ou abrigos disponíveis | Saber onde e quando posso obter alimentos |
+|Abrigo (Pedro)	     | Gerenciar as doações recebidas de forma eficiente      | Distribuir alimentos aos moradores do abrigo |
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+
+Contexto 1: Doador de Alimentos
+EU COMO:  Doador (Maria)
+QUERO/PRECISO:  Cadastrar minha padaria para doação de alimentos
+PARA:  Ajudar pessoas necessitadas em minha cidade.
+
+EU COMO: Doador (Carlos)
+QUERO/PRECISO: Visualizar o histórico de doações realizadas.
+PARA: Monitorar o impacto das minhas contribuições.
+
+EU COMO: Doador (João)
+QUERO/PRECISO: Receber sugestões de ONGs ou abrigos próximos para onde posso fazer doações.
+PARA: Facilitar o processo de entrega de alimentos sem perder tempo.
+
+-----------------------------------------------------------------------------------------------------------------
+Contexto 2: Organizações Não Governamentais (ONGs)
+EU COMO: ONG (João)
+QUERO/PRECISO: Receber notificações de doações perto de mim.
+PARA: Organizar e planejar a retirada de alimentos de forma eficiente.
+
+EU COMO: ONG (Carla)
+QUERO/PRECISO: Gerenciar as doações recebidas, incluindo a quantidade e o tipo de alimento.
+PARA: Planejar melhor a distribuição para os beneficiários.
+
+EU COMO: ONG (Lúcia)
+QUERO/PRECISO: Consultar a disponibilidade de alimentos em tempo real.
+PARA: Organizar rapidamente as entregas e atender as necessidades emergenciais.
+
+------------------------------------------------------------------------------------------------------------------
+
+Contexto 3: Beneficiário de Alimentos
+EU COMO: Beneficiário (Ana)
+QUERO/PRECISO: Consultar em tempo real as ONGs ou abrigos disponíveis para distribuição de alimentos.
+PARA: Saber onde e quando posso obter alimentos de forma rápida e acessível.
+
+EU COMO: Beneficiário (Lucas)
+QUERO/PRECISO: Receber notificações sobre as entregas de alimentos nas ONGs ou abrigos próximos a mim.
+PARA: Planejar melhor a minha ida aos locais de distribuição e não perder a oportunidade de receber alimentos.
+
+-------------------------------------------------------------------------------------------------------------------
+Contexto 4: Abrigo de Alimentos
+EU COMO: Abrigo (Pedro)
+QUERO/PRECISO: Gerenciar as doações recebidas de forma eficiente.
+PARA: Distribuir alimentos aos moradores do abrigo de maneira organizada e sem desperdícios.
+
+EU COMO: Abrigo (Marta)
+QUERO/PRECISO: Monitorar a quantidade de alimentos estocados e as necessidades de doações.
+PARA: Planejar a reposição de estoque e garantir que nunca faltem alimentos para os moradores.
+
+EU COMO: Abrigo (Fábio)
+QUERO/PRECISO: Receber alertas quando o estoque de alimentos estiver baixo.
+PARA: Evitar falta de alimentos e garantir que o abrigo esteja sempre abastecido.
+
+--------------------------------------------------------------------------------------------------------------------
+
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
@@ -44,21 +124,23 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Atualmente, as doações de alimentos acontecem de forma desorganizada, com poucas ferramentas tecnológicas para gerenciar as doações entre doadores, ONGs, abrigos e beneficiários. As ONGs muitas vezes não sabem onde encontrar doações e os beneficiários têm dificuldade em acessar esses alimentos.
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+O aplicativo será uma plataforma simples que conecta doadores, ONGs, abrigos e beneficiários, facilitando a doação e a recepção de alimentos. As ONGs e abrigos poderão cadastrar suas necessidades, e os doadores poderão oferecer alimentos diretamente através do aplicativo.
 
-### Processo 1 – NOME DO PROCESSO
+### Processo 1 – Cadastro de Doação
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+- Oportunidade de Melhoria: Automatizar o processo de recebimento de doações para reduzir o tempo entre a doação e a distribuição.
+- Modelo BPMN: O doador registra a doação, a ONG ou abrigo localiza a oferta e organiza a retirada.
 
 ![Processo 1](img/02-bpmn-proc1.png)
 
-### Processo 2 – NOME DO PROCESSO
+### Processo 2 – Distribuição de Alimentos
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+- Oportunidade de Melhoria: Otimizar a logística de distribuição através de notificações automáticas e mapeamento geolocalizado.
+- Modelo BPMN: As ONGs recebem as doações e organizam a distribuição, enquanto os beneficiários são informados sobre os horários e locais.
 
 ![Processo 2](img/02-bpmn-proc2.png)
 

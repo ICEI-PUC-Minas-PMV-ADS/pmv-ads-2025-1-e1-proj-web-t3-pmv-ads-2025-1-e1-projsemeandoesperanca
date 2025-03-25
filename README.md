@@ -1,5 +1,5 @@
 # Semeando Esperança:
-*Conectando Alimentos a quem precisa.
+
 `CURSO`
 
 `DISCIPLINA`

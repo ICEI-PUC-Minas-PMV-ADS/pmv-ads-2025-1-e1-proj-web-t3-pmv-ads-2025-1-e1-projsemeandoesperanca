@@ -40,7 +40,7 @@ A desconexão entre a produção, distribuição e consumo de alimentos contribu
 
 Diante desse cenário, é fundamental encontrar soluções que reduzam o desperdício e garantam que alimentos em boas condições cheguem a quem mais precisa.
 
----->>>> Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+O projeto está inserido no contexto da **solidariedade social e sustentabilidade**, abordando a problemática do **desperdício de alimentos e a fome**. A aplicação web busca conectar **doadores** (restaurantes, supermercados, produtores locais e cidadãos) a **beneficiários** (instituições sociais e indivíduos em situação de vulnerabilidade), facilitando a redistribuição de alimentos próprios para consumo. O projeto se alinha a iniciativas de responsabilidade social e aproveitamento consciente de recursos, utilizando a tecnologia como meio para otimizar esse processo.
 
 Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 

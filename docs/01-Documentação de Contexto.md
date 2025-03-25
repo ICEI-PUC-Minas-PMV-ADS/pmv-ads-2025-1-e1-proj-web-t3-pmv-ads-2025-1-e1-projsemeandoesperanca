@@ -42,7 +42,6 @@ Diante desse cenário, é fundamental encontrar soluções que reduzam o desperd
 
 O projeto está inserido no contexto da **solidariedade social e sustentabilidade**, abordando a problemática do **desperdício de alimentos e a fome**. A aplicação web busca conectar **doadores** (restaurantes, supermercados, produtores locais e cidadãos) a **beneficiários** (instituições sociais e indivíduos em situação de vulnerabilidade), facilitando a redistribuição de alimentos próprios para consumo. O projeto se alinha a iniciativas de responsabilidade social e aproveitamento consciente de recursos, utilizando a tecnologia como meio para otimizar esse processo.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -51,10 +50,17 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Objetivo Geral
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
+Desenvolver uma aplicação web front-end para conectar doadores de alimentos a beneficiários. 
+
+Objetivos Específicos
+
+1. Criar uma interface responsiva e compatível com diferentes dispositivos, garantindo uma navegação fluida tanto em desktops quanto em dispositivos móveis.
+
+2. Aplicar boas práticas de design e acessibilidade, tornando o site intuitivo e inclusivo para diferentes perfis de usuários, incluindo pessoas com pouca familiaridade com tecnologia.
+
+
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 

@@ -66,19 +66,41 @@ Objetivos Específicos
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Segundo o PNUMA, 17% dos alimentos disponíveis
+foram desperdiçados globalmente em 2019.
+No Brasil, cerca de 30% da produção alimentar é
+descartada, gerando uma perda de 61,3 bilhões de
+reais anuais, enquanto milhões de pessoas vivem na
+extrema miséria.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+A criação de uma plataforma de doação surge como
+uma solução para minimizar esse problema. A
+tecnologia pode conectar doadores e beneficiários,
+permitindo a redistribuição consciente de alimentos
+em boas condições.
+
+Além de combater a fome e o desperdício, o projeto
+incentiva a solidariedade e a responsabilidade social.
+Empresas adotam práticas mais sustentáveis,
+promovendo um cenário de maior aproveitamento
+dos alimentos.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Doadores:  Pessoa física ou empresas que possam
+contribuir com a doação de alimentos.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+ONGs e Abrigos: As pessoas que receberão as doações.
+Sendo elas, por exemplo, abrigos para pessoas em situação de rua,
+orfanatos, casas de acolhimento ou organizações que atendem
+comunidades carentes. 
+
+Voluntários: Voluntários dispostos a ajudar no
+transporte dos alimentos dos
+doadores até os beneficiários.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)

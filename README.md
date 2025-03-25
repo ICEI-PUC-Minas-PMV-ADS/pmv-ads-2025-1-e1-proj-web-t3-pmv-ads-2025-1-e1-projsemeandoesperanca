@@ -17,7 +17,7 @@ O projeto “Semeando Esperança” tem o objetivo de redistribuir os alimentos 
 
 ## Orientador
 
-* Nome completo do professor 1
+* Viviâne de Almeida Tôrres
 
 ## Instruções de utilização
 

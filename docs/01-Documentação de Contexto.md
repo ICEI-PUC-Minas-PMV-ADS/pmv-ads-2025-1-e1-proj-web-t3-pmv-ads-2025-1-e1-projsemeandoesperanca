@@ -1,11 +1,46 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A fome é uma realidade cruel que afeta milhões de pessoas diariamente, tornando-se um dos problemas sociais mais urgentes da atualidade não só no Brasil, como no mundo inteiro. Em meio ao desperdício de alimentos e a necessidade extrema, muitos cidadãos enfrentam a difícil rotina de não saber quando terão a próxima refeição. Essa situação é ainda mais agravada em comunidades vulneráveis, onde o acesso a recursos básicos é limitado. Neste cenário, é essencial buscar soluções que promovam a solidariedade e a distribuição consciente de alimentos, conectando aqueles que têm a possibilidade de doar aos que mais precisam.  
+
+O objetivo deste projeto é desenvolver uma plataforma digital que conecte doadores de alimentos, como: restaurantes, mercados e ONGs para ajudar pessoas em situação de vulnerabilidade. Através do site, será possível cadastrar e localizar doações próximas, reduzindo o desperdício de comida e garantindo que alimentos próprios para consumo cheguem a quem mais precisa com apoio das ONGs. Além disso, o sistema oferecerá funcionalidades como notificações automáticas e avaliações, visando tornar o processo seguro, eficiente e acessível para todos os envolvidos. 
+
+O desperdício de alimentos é um problema global que contrasta diretamente com a fome e a insegurança alimentar enfrentadas por milhões de pessoas. De acordo com o Programa das Nações Unidas para o Meio Ambiente (PNUMA), aproximadamente 17% de todos os alimentos disponíveis aos consumidores foram desperdiçados em 2019, totalizando cerca de 931 milhões de toneladas. E de acordo com SBCV (Sociedade Brasileira de Varejo e Consumo), diz que O Brasil perde aproximadamente R$ 61,3 bilhões por ano devido ao desperdício de alimentos. Cerca de 30% dos alimentos produzidos no país acabam sendo descartados, o que equivale a 46 milhões de toneladas anuais. Ao mesmo tempo, uma parcela significativa da população enfrenta dificuldades para se alimentar adequadamente. 
+
+  Diante dessa realidade, a criação de uma plataforma de doação de alimentos surge como uma solução prática e acessível para minimizar esses problemas. A tecnologia pode ser uma grande aliada ao conectar doadores e beneficiários, permitindo a redistribuição rápida e organizada de alimentos próximos do vencimento ou sobras seguras para consumo. 
+
+  Além de reduzir o desperdício e combater a fome, o projeto incentiva uma cultura de solidariedade e responsabilidade social. Empresas podem se beneficiar ao adotar práticas mais sustentáveis, enquanto indivíduos têm a oportunidade de contribuir ativamente para melhorar a vida de outras pessoas. Dessa forma, a plataforma gera um impacto positivo tanto social quanto ambiental, promovendo um ciclo de aproveitamento consciente dos recursos alimentares disponíveis. 
+  
+  Para o desenvolvimento da aplicação, é fundamental identificar e compreender os diferentes perfis de usuários que interagem com o problema do desperdício de alimentos. O projeto se destina principalmente a dois grupos de atores: doadores e beneficiários. Cada grupo possui características, necessidades e níveis variados de experiência com tecnologia, o que influencia diretamente o design e a funcionalidade da plataforma. 
+
+ Doadores: 
+
+Quem são: Restaurantes, supermercados, produtores locais e cidadãos com excedentes de alimentos. 
+
+Na aplicação: Esses usuários se cadastram como doadores, publicam informações sobre as doações (incluindo descrição e endereço para retirada) e acompanham os agendamentos. 
+
+Perfil tecnológico: Geralmente possuem um nível intermediário a avançado de familiaridade com plataformas digitais e sistemas de gestão, facilitando o cadastro e a inserção de informações sobre as doações. 
+
+Necessidades: Uma interface intuitiva para cadastro rápido, gerenciamento eficiente das doações e transparência no processo de doação. 
+
+Beneficiários: 
+
+Quem são: Instituições sociais (como bancos de alimentos, ONGs e abrigos) e indivíduos em situação de vulnerabilidade. 
+
+Na aplicação: Esses usuários se registram como recebedores e utilizam a plataforma para agendar a retirada dos alimentos doados, de acordo com suas necessidades e disponibilidade. 
+
+Necessidades: Uma plataforma acessível e fácil de navegar, com instruções claras e recursos de suporte que garantam um agendamento seguro e descomplicado. 
+
+ Com essa abordagem, a aplicação atende de forma inclusiva ambos os perfis, promovendo a redução do desperdício de alimentos e facilitando a conexão entre quem doa e quem precisa. 
+  
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+A fome e o desperdício de alimentos representam um dos maiores paradoxos da sociedade atual. Enquanto milhões de pessoas sofrem com a falta de comida, toneladas de alimentos são descartadas diariamente.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+A desconexão entre a produção, distribuição e consumo de alimentos contribui para essa realidade alarmante. A falta de políticas eficazes de reaproveitamento de alimentos e a ausência de canais eficientes para a doação agravam ainda mais a situação.
+
+Diante desse cenário, é fundamental encontrar soluções que reduzam o desperdício e garantam que alimentos em boas condições cheguem a quem mais precisa.
+
+---->>>> Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
 
 Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 

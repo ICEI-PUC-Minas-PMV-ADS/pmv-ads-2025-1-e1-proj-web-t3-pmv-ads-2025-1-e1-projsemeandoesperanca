@@ -58,8 +58,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Contexto 1 | Doador de Alimentos |
+|Doador de Alimentos | Cadastrar minha padaria para doação de alimentos | Ajudar pessoas necessitadas em minha cidade.|
 |EU COMO |  Doador (Maria) |
 |QUERO/PRECISO | Cadastrar minha padaria para doação de alimentos |
 |PARA | Ajudar pessoas necessitadas em minha cidade. |

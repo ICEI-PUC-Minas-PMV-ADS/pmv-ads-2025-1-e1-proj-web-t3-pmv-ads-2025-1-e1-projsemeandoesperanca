@@ -139,20 +139,6 @@ O aplicativo será uma plataforma simples que conecta doadores, ONGs, abrigos e 
 | Nível de satisfação dos usuários   | Avaliação de 4 ou mais em 5
 
 
-Indicador de Desempenho           /                    Meta                    
-Quantidade de doações realizadas   ---   Aumentar em 20% mensal
-
-Tempo de resposta para aceitar uma doação --- Menor que 1 hora
-
-Número de beneficiários atendidos	 --- Aumentar 30% nos próximos 6 meses
-
-Taxa de retenção de usuários	 --- Manter acima de 70%
-
-Nível de satisfação dos usuários	--- Avaliação de 4 ou mais em 5
-
-
-
-
 Usar o seguinte modelo: 
 
 ![Indicadores de Desempenho](img/02-indic-desemp.png)

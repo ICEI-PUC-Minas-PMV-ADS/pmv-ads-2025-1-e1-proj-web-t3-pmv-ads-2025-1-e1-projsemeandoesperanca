@@ -60,18 +60,10 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Doador de Alimentos | Cadastrar minha padaria para doação de alimentos | Ajudar pessoas necessitadas em minha cidade.|
-|EU COMO |  Doador (Maria) |
-|QUERO/PRECISO | Cadastrar minha padaria para doação de alimentos |
-|PARA | Ajudar pessoas necessitadas em minha cidade. |
+|Doador (Maria) | Cadastrar minha padaria para doação de alimentos | Ajudar pessoas necessitadas em minha cidade.|
+|Doador (Carlos)| Visualizar o histórico de doações realizadas     | Monitorar o impacto das minhas contribuições.|
+|Doador (João)  | Receber sugestões de ONGs ou abrigos próximos para onde posso fazer doações.| Facilitar o processo de entrega de alimentos sem perder tempo.|
 
-|EU COMO | Doador (Carlos) |
-|QUERO/PRECISO | Visualizar o histórico de doações realizadas.|
-|PARA | Monitorar o impacto das minhas contribuições.|
-
-|EU COMO Doador (João)
-QUERO/PRECISO Receber sugestões de ONGs ou abrigos próximos para onde posso fazer doações.
-PARA Facilitar o processo de entrega de alimentos sem perder tempo.
 
 -----------------------------------------------------------------------------------------------------------------
 Contexto 2: Organizações Não Governamentais (ONGs)

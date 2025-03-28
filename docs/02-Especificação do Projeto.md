@@ -66,6 +66,12 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
 
 -----------------------------------------------------------------------------------------------------------------
+
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|----------------------------------------|
+|                     Organizações Não Governamentais (ONGs)                                       |           
+
+
 Contexto 2: Organizações Não Governamentais (ONGs)
 EU COMO: ONG (João)
 QUERO/PRECISO: Receber notificações de doações perto de mim.

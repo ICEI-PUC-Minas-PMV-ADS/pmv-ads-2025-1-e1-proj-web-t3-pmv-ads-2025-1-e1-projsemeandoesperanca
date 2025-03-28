@@ -173,15 +173,21 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o doador registre alimentos para doação | MÉDIA | 
+|RF-002| Permitir a visualização das necessidades de ONGS e Abrigos | MÉDIA |
+|RF-003| Agendamento de entregas e retirada | ALTA |
+|RF-004| Cadastro de Beneficiários | BAIXA |
+|RF-005| Cadastrar Voluntários e Entregadores | MÉDIA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| Desempenho: O sistema deve ser capaz de processar até 1.000 transações simultâneas com tempo de resposta inferior a 7 segundos. | MÉDIA | 
+|RNF-002| Segurança: O sistema deve garantir a segurança dos dados dos usuários através de autenticação por login e senha. |  ALTA | 
+|RNF-003| Usabilidade: A interface deve de fácil navegação, garantindo uma experiência acessível para todos os usuários. O acesso deve ser feito por meio de sites, priorizando clareza e eficiência no design. | MÉDIA | 
+|RNF-004| Compatibilidade: O sistema deve ser compatível com as versões mais recentes dos sistemas operacionais iOS e Android, além de navegadores modernos como Chrome, Firefox e Safari. | ALTA | 
+|RNF-005| Disponibilidade: O sistema deve garantir uma taxa de disponibilidade de 99,9%, com exceção dos períodos de manutenção programada. | MÉDIA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 

@@ -48,7 +48,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO| QUERO/PRECISO  |PARA                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Doador (Maria)	     | Cadastrar minha padaria para doação de alimentos | Ajudar pessoas necessitadas em minha cidade |
 |ONG (João)	         | Receber notificações de doações perto de mim     | Organizar e planejar a retirada de alimentos |
@@ -58,57 +58,40 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO| QUERO/PRECISO  |PARA                |
 |--------------------|------------------------------------|----------------------------------------|
-|Doador (Maria) | Cadastrar minha padaria para doação de alimentos | Ajudar pessoas necessitadas em minha cidade.|
-|Doador (Carlos)| Visualizar o histórico de doações realizadas     | Monitorar o impacto das minhas contribuições.|
-|Doador (João)  | Receber sugestões de ONGs ou abrigos próximos para onde posso fazer doações.| Facilitar o processo de entrega de alimentos sem perder tempo.|
+|Doador (Maria) | Cadastrar minha padaria para doação de alimentos | Ajudar pessoas necessitadas em minha cidade|
+|Doador (Carlos)| Visualizar o histórico de doações realizadas     | Monitorar o impacto das minhas contribuições|
+|Doador (João)  | Receber sugestões de ONGs ou abrigos próximos para onde posso fazer doações| Facilitar o processo de entrega de alimentos sem perder tempo|
 
 
 -----------------------------------------------------------------------------------------------------------------
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO| QUERO/PRECISO  |PARA                 |
 |--------------------|------------------------------------|----------------------------------------|
-|                     Organizações Não Governamentais (ONGs)                                       |           
+| ONG (João)         | Receber notificações de doações perto de mim  | Organizar e planejar a retirada de alimentos de forma eficiente|
+| ONG (Carla)        | Gerenciar as doações recebidas, incluindo a quantidade e o tipo de alimento  | Planejar melhor a distribuição para os beneficiários|
+| ONG (Lúcia)        | Consultar a disponibilidade de alimentos em tempo real |Organizar rapidamente as entregas e atender as necessidades emergenciais  |
 
 
-Contexto 2: Organizações Não Governamentais (ONGs)
-EU COMO: ONG (João)
-QUERO/PRECISO: Receber notificações de doações perto de mim.
-PARA: Organizar e planejar a retirada de alimentos de forma eficiente.
 
-EU COMO: ONG (Carla)
-QUERO/PRECISO: Gerenciar as doações recebidas, incluindo a quantidade e o tipo de alimento.
-PARA: Planejar melhor a distribuição para os beneficiários.
-
-EU COMO: ONG (Lúcia)
-QUERO/PRECISO: Consultar a disponibilidade de alimentos em tempo real.
-PARA: Organizar rapidamente as entregas e atender as necessidades emergenciais.
 
 ------------------------------------------------------------------------------------------------------------------
 
-Contexto 3: Beneficiário de Alimentos
-EU COMO: Beneficiário (Ana)
-QUERO/PRECISO: Consultar em tempo real as ONGs ou abrigos disponíveis para distribuição de alimentos.
-PARA: Saber onde e quando posso obter alimentos de forma rápida e acessível.
+|EU COMO| QUERO/PRECISO  |PARA                |
+|--------------------|------------------------------------|----------------------------------------|
+|  Beneficiário (Ana) |Consultar em tempo real as ONGs ou abrigos disponíveis para distribuição de alimentos | Saber onde e quando posso obter alimentos de forma rápida e acessível|  
+| Beneficiário (Lucas) | Receber notificações sobre as entregas de alimentos nas ONGs ou abrigos próximos a mim |Planejar melhor a minha ida aos locais de distribuição e não perder a oportunidade de receber alimentos. |
 
-EU COMO: Beneficiário (Lucas)
-QUERO/PRECISO: Receber notificações sobre as entregas de alimentos nas ONGs ou abrigos próximos a mim.
-PARA: Planejar melhor a minha ida aos locais de distribuição e não perder a oportunidade de receber alimentos.
+
 
 -------------------------------------------------------------------------------------------------------------------
-Contexto 4: Abrigo de Alimentos
-EU COMO: Abrigo (Pedro)
-QUERO/PRECISO: Gerenciar as doações recebidas de forma eficiente.
-PARA: Distribuir alimentos aos moradores do abrigo de maneira organizada e sem desperdícios.
 
-EU COMO: Abrigo (Marta)
-QUERO/PRECISO: Monitorar a quantidade de alimentos estocados e as necessidades de doações.
-PARA: Planejar a reposição de estoque e garantir que nunca faltem alimentos para os moradores.
-
-EU COMO: Abrigo (Fábio)
-QUERO/PRECISO: Receber alertas quando o estoque de alimentos estiver baixo.
-PARA: Evitar falta de alimentos e garantir que o abrigo esteja sempre abastecido.
+|EU COMO| QUERO/PRECISO  |PARA                |
+|--------------------|------------------------------------|----------------------------------------|
+| Abrigo (Pedro)| Gerenciar as doações recebidas de forma eficiente| Distribuir alimentos aos moradores do abrigo de maneira organizada e sem desperdícios |
+| Abrigo (Marta) | Monitorar a quantidade de alimentos estocados e as necessidades de doações|Planejar a reposição de estoque e garantir que nunca faltem alimentos para os moradores |                
+| Abrigo (Fábio) | Receber alertas quando o estoque de alimentos estiver baixo | Evitar falta de alimentos e garantir que o abrigo esteja sempre abastecido |
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -145,6 +128,16 @@ O aplicativo será uma plataforma simples que conecta doadores, ONGs, abrigos e 
 ![Processo 2](img/02-bpmn-proc2.png)
 
 ## Indicadores de Desempenho
+
+
+|Indicador de Desempenho   |   Meta  || 
+|--------------------|------------------------------------|------------------------------------|
+|Quantidade de doações realizadas|    Aumentar em 20% mensal    
+|Tempo de resposta para aceitar uma doação | Menor que 1 hora
+| Número de beneficiários atendidos  | Aumentar 30% nos próximos 6 meses
+| Taxa de retenção de usuários	      | Manter acima de 70%
+| Nível de satisfação dos usuários   | Avaliação de 4 ou mais em 5
+
 
 Indicador de Desempenho           /                    Meta                    
 Quantidade de doações realizadas   ---   Aumentar em 20% mensal

@@ -58,18 +58,19 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
-Contexto 1: Doador de Alimentos
-EU COMO:  Doador (Maria)
-QUERO/PRECISO:  Cadastrar minha padaria para doação de alimentos
-PARA:  Ajudar pessoas necessitadas em minha cidade.
+|--------------------|------------------------------------|----------------------------------------|
+|Contexto 1 | Doador de Alimentos |
+|EU COMO |  Doador (Maria) |
+|QUERO/PRECISO | Cadastrar minha padaria para doação de alimentos |
+|PARA | Ajudar pessoas necessitadas em minha cidade. |
 
-EU COMO: Doador (Carlos)
-QUERO/PRECISO: Visualizar o histórico de doações realizadas.
-PARA: Monitorar o impacto das minhas contribuições.
+|EU COMO | Doador (Carlos) |
+|QUERO/PRECISO | Visualizar o histórico de doações realizadas.|
+|PARA | Monitorar o impacto das minhas contribuições.|
 
-EU COMO: Doador (João)
-QUERO/PRECISO: Receber sugestões de ONGs ou abrigos próximos para onde posso fazer doações.
-PARA: Facilitar o processo de entrega de alimentos sem perder tempo.
+|EU COMO Doador (João)
+QUERO/PRECISO Receber sugestões de ONGs ou abrigos próximos para onde posso fazer doações.
+PARA Facilitar o processo de entrega de alimentos sem perder tempo.
 
 -----------------------------------------------------------------------------------------------------------------
 Contexto 2: Organizações Não Governamentais (ONGs)

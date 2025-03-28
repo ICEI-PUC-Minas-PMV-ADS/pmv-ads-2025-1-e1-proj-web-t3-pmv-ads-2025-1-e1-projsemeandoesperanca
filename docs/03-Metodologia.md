@@ -7,6 +7,19 @@ A metodologia adotada para o desenvolvimento do software de planejamento de doa�
 
 ## Relação de Ambientes de Trabalho
 
+
+|Ambiente| Plataforma |Link de Acesso                | 
+|--------------------|------------------------------------|----------------------------------------|
+|Desenvolvimento  | Visual Studio Code  |                 |
+| Repositório de Código  |  GitHub |                      |
+| Testes Automatizados  |  Docker, PyTest, Jest         |              |
+| Integração Contínua |  GitHub Actions         |                |
+|Produção  |            |            |
+| Monitoramento     |      |       |
+|   Gestão de Projetos     |  Trello     |        | 
+
+
+
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
 Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
 
@@ -14,14 +27,14 @@ Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina tam
 
 A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+foi utilizado para hospedagem do repositório.https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2025-1-e1-proj-web-t3-pmv-ads-2025-1-e1-projsemeandoesperanca/blob/main/docs/03-Metodologia.md
 
 O projeto segue a seguinte convenção para o nome de branches:
 
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
+- `main`: Apenas código estável e testado.
+- `unstable`: Código testado, porém ainda sujeito a instabilidades.
+- `testing`: Contém versões em testes.
+- `dev`: Utilizada para implementação de novas funcionalidades.
 
 Quanto à gerência de issues, o projeto adota a seguinte convenção para
 etiquetas:
@@ -48,10 +61,10 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 Apresente a divisão de papéis entre os membros do grupo.
 
 Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Felipe Domingos;
-- Product Owner: Rommel Carneiro;
-- Equipe de Desenvolvimento: Pedro Penna, Pedro Ivo, Rodrigo Richard;
-- Equipe de Design: Simone Nogueira.
+- Scrum Master: Tainan Marques;
+- Product Owner: Carlos Silva;
+- Equipe de Desenvolvimento: Marcos Antonio, Ruan Mulato;
+- Equipe de Design: Tainan Marques.
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
@@ -60,7 +73,7 @@ Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum 
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+O trabalho será dividido em sprints de duas semanas, com reuniões de planejamento, daily meetings curtas para alinhamento, revisão de sprint e retrospectiva para melhorias contínuas.
  
 > **Links Úteis**:
 > - [Planejamento e Gestáo Ágil de Projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)

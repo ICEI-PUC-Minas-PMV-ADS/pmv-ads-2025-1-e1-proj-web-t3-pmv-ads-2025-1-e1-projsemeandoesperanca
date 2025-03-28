@@ -146,7 +146,7 @@ O aplicativo será uma plataforma simples que conecta doadores, ONGs, abrigos e 
 
 ## Indicadores de Desempenho
 
-Indicador de Desempenho                                            Meta                    
+Indicador de Desempenho           /                    Meta                    
 Quantidade de doações realizadas   ---   Aumentar em 20% mensal
 
 Tempo de resposta para aceitar uma doação --- Menor que 1 hora

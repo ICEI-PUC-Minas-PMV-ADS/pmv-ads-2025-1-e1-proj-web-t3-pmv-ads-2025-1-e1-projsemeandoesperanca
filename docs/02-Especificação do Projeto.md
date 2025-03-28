@@ -146,7 +146,19 @@ O aplicativo será uma plataforma simples que conecta doadores, ONGs, abrigos e 
 
 ## Indicadores de Desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
+Indicador de Desempenho                     Meta                    
+Quantidade de doações realizadas   ---   Aumentar em 20% mensal
+
+Tempo de resposta para aceitar uma doação --- Menor que 1 hora
+
+Número de beneficiários atendidos	 --- Aumentar 30% nos próximos 6 meses
+
+Taxa de retenção de usuários	 --- Manter acima de 70%
+
+Nível de satisfação dos usuários	--- Avaliação de 4 ou mais em 5
+
+
+
 
 Usar o seguinte modelo: 
 

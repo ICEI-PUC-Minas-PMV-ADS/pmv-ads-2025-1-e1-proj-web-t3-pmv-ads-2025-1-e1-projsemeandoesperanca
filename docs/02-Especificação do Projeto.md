@@ -16,22 +16,12 @@ Técnicas e Ferramentas Utilizadas:
 
 ## Personas
 
-1- Doador: Maria, 35 anos
-
-Maria é dona de uma pequena padaria e quer ajudar a comunidade local. Ela está interessada em um meio simples e rápido para fazer suas doações de pães e outros alimentos não perecíveis. Maria busca uma plataforma confiável para fazer suas doações de forma direta para ONGs ou abrigos de sua cidade.
-
-2- ONG: João, 42 anos
-
-João coordena uma ONG que oferece alimentação para pessoas em situação de rua. Ele precisa de um aplicativo que centralize as doações recebidas e facilite o gerenciamento das entregas aos beneficiários. A ONG busca otimizar a distribuição de alimentos.
-
-3- Beneficiário: Ana, 27 anos
-
-Ana é moradora de rua e depende das doações de alimentos para sua sobrevivência. Ela precisa de um sistema onde possa localizar rapidamente as ONGs ou abrigos que estão distribuindo alimentos em sua região, com horários e locais definidos.
-
-4- Abrigo: Pedro, 50 anos
-
-Pedro administra um abrigo para famílias em situação de vulnerabilidade social. O abrigo precisa de um aplicativo para gerenciar as doações e as necessidades alimentícias de seus moradores, garantindo que tudo seja distribuído de maneira justa e eficiente.
-
+|Persona | Obejtivo  ||           
+|--------------------|------------------------------------|----------------------------------------|
+| Doador - Maria               |  Maria é dona de uma pequena padaria e quer ajudar a comunidade local. Ela está interessada em um meio simples e rápido para fazer suas doações de pães e outros alimentos não perecíveis. Maria busca uma plataforma confiável para fazer suas doações de forma direta para ONGs ou abrigos de sua cidade. |                  |   
+|  ONG - João                 | João coordena uma ONG que oferece alimentação para pessoas em situação de rua. Ele precisa de um aplicativo que centralize as doações recebidas e facilite o gerenciamento das entregas aos beneficiários. A ONG busca otimizar a distribuição de alimentos            |                                          |   
+|  Beneficiário - Ana         |  Ana é moradora de rua e depende das doações de alimentos para sua sobrevivência. Ela precisa de um sistema onde possa localizar rapidamente as ONGs ou abrigos que estão distribuindo alimentos em sua região, com horários e locais definidos.                         |                                          |   
+|  Abrigo -   Pedro           |   Pedro administra um abrigo para famílias em situação de vulnerabilidade social. O abrigo precisa de um aplicativo para gerenciar as doações e as necessidades alimentícias de seus moradores, garantindo que tudo seja distribuído de maneira justa e eficiente.                        |                                          |   
 
 
 > **Links Úteis**:
